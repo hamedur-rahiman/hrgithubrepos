@@ -6,4 +6,7 @@ This is sample text with modified text - change 2
 
 thirsty change
 
+
 thirsty change - 2
+
+Master change
