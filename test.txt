@@ -1,5 +1,8 @@
 This is sample text with modified text
 
+
+master change
+
 This is sample text with modified text - change 1
 
 This is sample text with modified text - change 2
@@ -9,4 +12,5 @@ thirsty change
 
 thirsty change - 2
 
-Master change
+MAster change 2
+
